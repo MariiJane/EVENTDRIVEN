@@ -42,10 +42,15 @@ namespace OrganizationProfile
 		{
 			try
 			{
-				if (!Regex.IsMatch(studNum, @"^[0-9]{11}$"))
+				if (!Regex.IsMatch(studNum, @"0^[0-9]{10,11}$"))
 				{
-					throw new ArgumentNullException("Must be 11 digits only");
-				}
+                    _StudentNo = long.Parse(studNum);
+
+                }
+                else
+				{
+                    throw new ArgumentNullException("Must be 11 digits only");
+                }
 			}
 			catch (ArgumentNullException ex)
 			{
@@ -61,27 +66,29 @@ namespace OrganizationProfile
 
 		public long ContactNo(string Contact)
 		{
-			try
-			{
-				if (!Regex.IsMatch(Contact, @"^0[0-9]{10,11}$"))
-				{
-					_ContactNo = long.Parse(Contact);
-				}
-				else
-				{
-					throw new ArgumentNullException("Must be 10 to 11 digits only");
-				}
-			}
-			catch (ArgumentNullException ex)
-			{
-				MessageBox.Show(ex.Message);
-			}
-			finally
-			{
-				Console.WriteLine("Contact No. is valid.");
-			}
-				return _ContactNo;
-		}
+            try
+            {
+                if (!Regex.IsMatch(Contact, @"0^[0-9]{10,11}$"))
+                {
+                    _ContactNo = long.Parse(Contact);
+
+                }
+                else
+                {
+                    throw new ArgumentNullException("Must be 11 digits only");
+                }
+            }
+            catch (ArgumentNullException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Student Number is valid.");
+                _ContactNo = long.Parse(Contact);
+            }
+            return _ContactNo;
+        }
 		
 
 		public string FullName(string LastName, string FirstName, string MiddleInitial)
@@ -96,7 +103,6 @@ namespace OrganizationProfile
 				{
 					throw new ArgumentNullException ("Must be letters only");
 				}
-			
 			}
 			catch (ArgumentNullException ex)
 			{
@@ -106,34 +112,18 @@ namespace OrganizationProfile
 			{
 				Console.WriteLine("Name is Valid.");
 			}
-
 			return _FullName;
 		}
 
 		public int Age(string age)
 		{
-			try
-			{
-				if (!Regex.IsMatch(age, @"^[0-9]{1,3}$"))
-				{
-					_Age = Int32.Parse(age);
-					
-				}
-				else
-				{
-					throw new ArgumentNullException("Must be 1 to 3 digits only");
-				}
-			}
-			catch (ArgumentNullException ex)
-			{
-				MessageBox.Show(ex.Message);
-			}
-			finally
-			{
-				Console.WriteLine("Valid");
-			}
-			return _Age;
-		}
+            if (Regex.IsMatch(age, @"^[0-9]{1,3}$"))
+            {
+                _Age = Int32.Parse(age);
+            }
+
+            return _Age;
+        }
 
 		private void btnRegister_Click(object sender, EventArgs e)
 		{
@@ -146,18 +136,19 @@ namespace OrganizationProfile
 			StudentInformationClass.SetBirthDay = datePickerBirthday.Value.ToString("yyyy-MM-dd");
 
 			frmConfirmation frm = new frmConfirmation();
-			frm.ShowDialog();
+			frm.Show();
 		}
 	}
 	public class StudentInformationClass
 	{
 		public static long SetStudentNo = 0;
 		public static long SetContactNo = 0;
-		public static int SetAge = 0;
 		public static string SetProgram = " ";
 		public static string SetGender = " ";
 		public static string SetBirthDay = " ";
 		public static string SetFullName = " ";
+		public static int SetAge = 0;
+
 	}
 }
 
