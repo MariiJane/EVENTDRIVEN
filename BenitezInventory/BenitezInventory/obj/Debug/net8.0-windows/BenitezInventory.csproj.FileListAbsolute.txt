@@ -1,0 +1,16 @@
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\bin\Debug\net8.0-windows\BenitezInventory.exe
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\bin\Debug\net8.0-windows\BenitezInventory.deps.json
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\bin\Debug\net8.0-windows\BenitezInventory.runtimeconfig.json
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\bin\Debug\net8.0-windows\BenitezInventory.dll
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\bin\Debug\net8.0-windows\BenitezInventory.pdb
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.frmAddProduct.resources
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.csproj.GenerateResource.cache
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.AssemblyInfoInputs.cache
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.AssemblyInfo.cs
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.csproj.CoreCompileInputs.cache
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.dll
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\refint\BenitezInventory.dll
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.pdb
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\BenitezInventory.genruntimeconfig.cache
+C:\Users\CompLab209-PC1\source\repos\BenitezInventory\BenitezInventory\obj\Debug\net8.0-windows\ref\BenitezInventory.dll
