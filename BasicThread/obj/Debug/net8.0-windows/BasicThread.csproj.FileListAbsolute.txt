@@ -1,0 +1,16 @@
+C:\Users\Jane\source\repos\BasicThread\BasicThread\bin\Debug\net8.0-windows\BasicThread.exe
+C:\Users\Jane\source\repos\BasicThread\BasicThread\bin\Debug\net8.0-windows\BasicThread.deps.json
+C:\Users\Jane\source\repos\BasicThread\BasicThread\bin\Debug\net8.0-windows\BasicThread.runtimeconfig.json
+C:\Users\Jane\source\repos\BasicThread\BasicThread\bin\Debug\net8.0-windows\BasicThread.dll
+C:\Users\Jane\source\repos\BasicThread\BasicThread\bin\Debug\net8.0-windows\BasicThread.pdb
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.frmBasicThread.resources
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.AssemblyInfo.cs
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.dll
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\refint\BasicThread.dll
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.pdb
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\BasicThread.genruntimeconfig.cache
+C:\Users\Jane\source\repos\BasicThread\BasicThread\obj\Debug\net8.0-windows\ref\BasicThread.dll
