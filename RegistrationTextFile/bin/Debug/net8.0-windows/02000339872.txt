@@ -1,0 +1,7 @@
+Student No.: 02000339872
+Full Name: BENITEZ, JANE MARINEL, D
+Program: BSIT
+Gender: Female
+Age: 20
+Birthday: 2025-10-16
+Contact No.: 09123456789

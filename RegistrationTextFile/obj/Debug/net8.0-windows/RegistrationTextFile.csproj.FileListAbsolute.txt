@@ -1,0 +1,16 @@
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\bin\Debug\net8.0-windows\RegistrationTextFile.exe
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\bin\Debug\net8.0-windows\RegistrationTextFile.deps.json
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\bin\Debug\net8.0-windows\RegistrationTextFile.runtimeconfig.json
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\bin\Debug\net8.0-windows\RegistrationTextFile.dll
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\bin\Debug\net8.0-windows\RegistrationTextFile.pdb
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.Form1.resources
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.AssemblyInfo.cs
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.dll
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\refint\RegistrationTextFile.dll
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.pdb
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\RegistrationTextFile.genruntimeconfig.cache
+C:\Users\Jane\source\repos\RegistrationTextFile\RegistrationTextFile\obj\Debug\net8.0-windows\ref\RegistrationTextFile.dll
